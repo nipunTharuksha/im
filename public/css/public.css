@@ -1,0 +1,76 @@
+#home{
+
+    background: url(../assets/images/bg2.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+.nav-link{
+color: white;
+font-size: 18px;
+}
+.nav-link:hover{
+    color:#18d26e;
+}
+#h1{
+
+    font-family: fantasy;
+}
+#footercolor{
+   background-color:#18d26e;
+}
+#p{
+    text-align: center;
+    padding-bottom: 30px;
+    color: #333;
+    font-weight: 600;
+}
+#head{
+    font-size: 32px;
+    color: #111;
+    text-transform: uppercase;
+    margin-left:86%;
+    font-weight: 700;
+    position: relative;
+
+}
+#courseid:hover{
+    color:#18d26e;
+
+}
+#div1:hover{
+    background-color:  #d5f5e3   ;
+
+}
+#head2{
+    font-size: 32px;
+    color: #111;
+    text-transform: uppercase;
+    margin-left:84%;
+    font-weight: 700;
+    position: relative;
+
+}
+.dot {
+    height: 350px;
+    width: 380px;
+    border-radius: 50%;
+    border:2px solid#18d26e;
+    display: inline-block;
+    background-color:  #a6fbdf  ;
+}
+.dot:hover{
+    border:2px solid black;
+    background-color: #11f173 ;
+}
+#head5{
+    font-size: 32px;
+    color: #111;
+    text-transform: uppercase;
+    margin-left:84%;
+    font-weight: 700;
+    position: relative;
+}
+
